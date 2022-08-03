@@ -11,9 +11,15 @@
 
 ![](https://komarev.com/ghpvc/?username=YeLwinOo-Steve&color=0ca4a5)
 
-# 👋 &nbsp;<b>Hi There!</b>
+# <b style="font-size: 50px">👋</b> &nbsp;<b>Hi There!</b>
 
-I'm <b style="color: #0ca4a5">a passionate Software developer ( also a CDM Student ) </b> from Myanmar. I'm currently working as <b style="font-size: 16px;color: #0ca4a5;">a Flutter developer at [@App.com.mm](https://app.com.mm)</b>. I enjoy coding open-source projects that solve unique problems. I am also a novice AI Engineer. I love solving programming challenges, coding and building various software projects with Dart & Flutter. Slightly obsessed with Web technologies. Feel free to contact me any time&nbsp;😎.
+<h3>I'm <b style="color: #0ca4a5">a passionate Software developer ( also a CDM Student ) </b> from Myanmar.</h3> 
+<ul>
+<li> 🔭  I'm currently working as <b style="font-size: 16px;color: #0ca4a5;">a Flutter developer at <a href="https://app.com.mm">App.com.mm</a></b>.</li>
+<li> 📖  I am also a novice AI Engineer & avid reader. </li>
+<li> 💭  I love solving programming challenges, coding and building various software projects with Dart & Flutter. </li>
+<li> 🕸  Slightly obsessed with Web technologies.</li> 
+<li> 📮  I often work on <b>freelance projects</b>. Contact me via <a href="mailto: yelwinoo.ucsm.edu@gmail.com">yelwinoo.ucsm.edu@gmail.com</a> .</li>
 
 &nbsp;
 
