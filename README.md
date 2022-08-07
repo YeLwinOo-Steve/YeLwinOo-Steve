@@ -19,7 +19,7 @@
 <li> 📖  I am also a novice AI Engineer & avid reader. </li>
 <li> 💭  I love solving programming challenges, coding and building various software projects with Dart & Flutter. </li>
 <li> 🕸  Slightly obsessed with Web technologies.</li> 
-<li> 📮  I often work on <b>freelance projects</b>. Contact me via <a href="mailto: yelwinoo.ucsm.edu@gmail.com">yelwinoo.ucsm.edu@gmail.com</a> .</li>
+<li> 📮  I often work on <b>freelance projects</b>. Contact me via <a href="mailto: yelwinoo.work@gmail.com">yelwinoo.work@gmail.com</a> .</li>
 
 &nbsp;
 
