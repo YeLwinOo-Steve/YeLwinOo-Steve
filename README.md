@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ye_lwin_oo.png" width="100%" height="400">
+  <img src="./ye_lwin_oo.png" width="100%" height="300">
 </p>
 <img src="./wave.svg" style="width:100%;"><br>
 <br>
