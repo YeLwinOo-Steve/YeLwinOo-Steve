@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./ye_lwin_oo.png" width="100%" height="400">
+  <img src="./wave.svg" style="width:100%;"><br>
 </p>
-<img src="./wave.svg" style="width:100%;"><br>
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=light)](https://www.linkedin.com/in/ye-lwin-oo-ucsm/) &nbsp;
