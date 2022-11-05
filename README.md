@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="./ye_lwin_oo.png" width="100%" height="400">
-  <img src="./wave.svg" style="width:100%;"><br>
+  <img src="./ye_lwin_oo.png" width="100%" style="object-fit: contain;height: auto;">
+  <img src="./wave.svg" width="100%" style="object-fit: contain;height: auto;"><br>
 </p>
 <br>
 
@@ -15,7 +15,7 @@
 
 <h3>I'm <b style="color: #0ca4a5">a passionate Software developer ( also a CDM Student ) </b> from Myanmar.</h3> 
 <ul>
-<li> 🔭  I'm currently working as <b style="font-size: 16px;color: #0ca4a5;">a Flutter developer at <a href="https://app.com.mm">App.com.mm</a></b>.</li>
+<li> 🔭  I'm currently working as <b style="font-size: 16px;color: #0ca4a5;">a Flutter developer at Nexus Hub Solution.</b></li>
 <li> 📖  I am also a novice AI Engineer & avid reader. </li>
 <li> 💭  I love solving programming challenges, coding and building various software projects with Dart & Flutter. </li>
 <li> 🕸  Slightly obsessed with Web technologies.</li> 
@@ -46,7 +46,7 @@
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=Notee&theme=vue-dark)](https://github.com/YeLwinOo-Steve/Notee)&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=ar_box_measurement&theme=vue-dark)](https://github.com/YeLwinOo-Steve/ar_box_measurement)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=Notee&theme=vue-dark)](https://github.com/YeLwinOo-Steve/Notee)&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=ar_box_measurement&theme=vue-dark)](https://github.com/YeLwinOo-Steve/ar_box_measurement) <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=AIChatbot&theme=vue-dark)](https://github.com/YeLwinOo-Steve/AIChatbot) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=FlappyIronman&theme=vue-dark)](https://github.com/YeLwinOo-Steve/FlappyIronman)
 <br>
