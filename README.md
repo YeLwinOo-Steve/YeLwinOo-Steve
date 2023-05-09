@@ -16,30 +16,11 @@
 
 <h3>I'm <b style="color: #0ca4a5">a passionate Software developer ( also a CDM Student ) </b> from Myanmar.</h3> 
 <ul>
-<li> 🔭  I'm currently working as <b style="font-size: 16px;color: #0ca4a5;">a Flutter developer at Nexus Hub Solution.</b></li>
-<li> 📖  I am also a novice AI Engineer & avid reader. </li>
-<li> 💭  I love solving programming challenges, coding and building various software projects with Dart & Flutter. </li>
-<li> 🕸  Slightly obsessed with Web technologies.</li> 
-<li> 📮  I often work on <b>freelance projects</b>. Contact me via <a href="mailto: yelwinoo.work@gmail.com">yelwinoo.work@gmail.com</a> .</li>
-
-&nbsp;
-
-## 💻 &nbsp;My Skills & Tools
-
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/> &nbsp;
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-plain.svg" alt="Flutter" width="50" height="50"/> &nbsp;
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-plain.svg" alt="Mongo Db" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/threejs/threejs-original.svg" alt="Three Js" width="50" height="50" style="background:white"/> &nbsp;
-<br><br>
-
-### 🚀 &nbsp; Minor skills
-
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-plain.svg" alt="Python" width="30" height="30"/> &nbsp;
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="Node Js" width="30" height="30"/> &nbsp;
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain.svg" alt="Java" width="30" height="30"/> &nbsp;
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="30" height="30"/> &nbsp;
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>
+<li> <b style="font-size: 24px">🔭</b>  I'm currently working as <b style="font-size: 18px;color: #0ca4a5;">a Flutter developer at Nexus Hub Solution.</b></li>
+<li> <b style="font-size: 24px">📖</b>  I am also a novice AI Engineer & avid reader. </li>
+<li> <b style="font-size: 24px">💭</b>  I love solving programming challenges, coding and building various software projects with Dart & Flutter. </li>
+<li> <b style="font-size: 24px">🕸</b>  Slightly obsessed with Web technologies.</li> 
+<li> <b style="font-size: 24px">📮</b>  I often work on <b style="text-decoration: underline;">freelance projects</b>. Contact me via <a href="mailto: yelwinoo.work@gmail.com">yelwinoo.work@gmail.com</a> .</li>
 
 &nbsp;
 
@@ -47,15 +28,22 @@
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=Notee&theme=vue-dark)](https://github.com/YeLwinOo-Steve/Notee)&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=ar_box_measurement&theme=vue-dark)](https://github.com/YeLwinOo-Steve/ar_box_measurement) <br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=AIChatbot&theme=vue-dark)](https://github.com/YeLwinOo-Steve/AIChatbot) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=FlappyIronman&theme=vue-dark)](https://github.com/YeLwinOo-Steve/FlappyIronman)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=Notee&theme=vue-dark)](https://github.com/YeLwinOo-Steve/Notee)&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=FlappyIronman&theme=vue-dark)](https://github.com/YeLwinOo-Steve/FlappyIronman)
 <br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=TheGoldenLand&theme=vue-dark)](https://github.com/YeLwinOo-Steve/TheGoldenLand)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=AIChatbot&theme=vue-dark)](https://github.com/YeLwinOo-Steve/AIChatbot)&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=TheGoldenLand&theme=vue-dark)](https://github.com/YeLwinOo-Steve/TheGoldenLand)
 
 &nbsp;
 
 ## 📊 &nbsp;Stats
-<a href="https://stardev.io/developers/YeLwinOo-Steve"><img alt="Check out YeLwinOo-Steve's profile on stardev.io" src="https://stardev.io/developers/YeLwinOo-Steve/badge/languages/global.svg" /></a> &nbsp;
-![Ye Lwin Oo's Github Stats](https://github-readme-stats.vercel.app/api?username=YeLwinOo-Steve&show_icons=true&theme=vue-dark) &nbsp;![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YeLwinOo-Steve&theme=vue-dark&count_private=true)
+
+<br>
+
+![Github Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YeLwinOo-Steve&theme=chartreuse_dark)
+
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YeLwinOo-Steve&theme=chartreuse_dark)&nbsp;&nbsp;
+&nbsp;
+![Commit Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YeLwinOo-Steve&theme=chartreuse_dark&utcOffset=8)
+
+![Top Languages By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YeLwinOo-Steve&theme=chartreuse_dark)&nbsp;&nbsp;
+&nbsp;
+![Top Languages By Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YeLwinOo-Steve&theme=chartreuse_dark)
