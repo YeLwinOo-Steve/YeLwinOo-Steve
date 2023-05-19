@@ -7,20 +7,20 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=light)](https://www.linkedin.com/in/ye-lwin-oo-ucsm/) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/Facebook-Account-informational?style=for-the-badge&logo=facebook&logoColor=white&color=light)](https://www.facebook.com/ye.lwin.oo.someone) &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/YeLwinOo-Steve?logo=GitHub&style=for-the-badge&color=0ca4a5)](https://github.com/YeLwinOo-Steve) &nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/YeLwinOo-Steve?logo=github&style=for-the-badge&color=0ca4a5)](https://github.com/YeLwinOo-Steve) &nbsp;<br>
+[![GitHub followers](https://img.shields.io/github/followers/YeLwinOo-Steve?logo=GitHub&style=for-the-badge&color=7fff00)](https://github.com/YeLwinOo-Steve) &nbsp;
+[![GitHub Stars](https://img.shields.io/github/stars/YeLwinOo-Steve?logo=github&style=for-the-badge&color=7fff00)](https://github.com/YeLwinOo-Steve) &nbsp;<br>
 
-![](https://komarev.com/ghpvc/?username=YeLwinOo-Steve&color=0ca4a5)
+![](https://komarev.com/ghpvc/?username=YeLwinOo-Steve&color=7fff00)
 
 # <b style="font-size: 50px">👋</b> &nbsp;<b>Hi There!</b>
 
-<h3>I'm <b style="color: #0ca4a5">a passionate Software developer ( also a CDM Student ) </b> from Myanmar.</h3> 
+<h3>I'm <b style="color: #7fff00">a passionate Software developer ( also a CDM Student ) </b> from Myanmar.</h3> 
 <ul>
-<li> <b style="font-size: 24px">🔭</b>  I'm currently working as <b style="font-size: 18px;color: #0ca4a5;">a Flutter developer at Nexus Hub Solution.</b></li>
-<li> <b style="font-size: 24px">📖</b>  I am also a novice AI Engineer & avid reader. </li>
-<li> <b style="font-size: 24px">💭</b>  I love solving programming challenges, coding and building various software projects with Dart & Flutter. </li>
-<li> <b style="font-size: 24px">🕸</b>  Slightly obsessed with Web technologies.</li> 
-<li> <b style="font-size: 24px">📮</b>  I often work on <b style="text-decoration: underline;">freelance projects</b>. Contact me via <a href="mailto: yelwinoo.work@gmail.com">yelwinoo.work@gmail.com</a> .</li>
+<li> <b style="font-size: 28px">🔭</b>  I'm currently working as <b style="font-size: 18px;color: #7fff00;">a Flutter developer.</b></li>
+<li> <b style="font-size: 28px">📖</b>  I am also a novice AI Engineer & avid reader. </li>
+<li> <b style="font-size: 28px">💭</b>  I love solving programming challenges, coding and building various software projects with Dart & Flutter. </li>
+<li> <b style="font-size: 28px">🕸 </b>  Slightly obsessed with Web technologies.</li> 
+<li> <b style="font-size: 28px">📮</b>  I often work on <b style="text-decoration: underline;color: #7fff00">freelance projects</b>. Contact me via <a href="mailto: yelwinoo.work@gmail.com">yelwinoo.work@gmail.com</a> .</li>
 
 &nbsp;
 
@@ -28,9 +28,9 @@
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=Notee&theme=vue-dark)](https://github.com/YeLwinOo-Steve/Notee)&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=FlappyIronman&theme=vue-dark)](https://github.com/YeLwinOo-Steve/FlappyIronman)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=Pulse&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/YeLwinOo-Steve/Pulse)&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=Notee&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/YeLwinOo-Steve/Notee)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=AIChatbot&theme=vue-dark)](https://github.com/YeLwinOo-Steve/AIChatbot)&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=TheGoldenLand&theme=vue-dark)](https://github.com/YeLwinOo-Steve/TheGoldenLand)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=FlappyIronman&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/YeLwinOo-Steve/FlappyIronman)&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=TheGoldenLand&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/YeLwinOo-Steve/TheGoldenLand)
 
 &nbsp;
 
