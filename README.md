@@ -16,7 +16,7 @@
 
 <h3>I'm <b style="color: #7fff00">a passionate Software developer ( also a CDM Student ) </b> from Myanmar.</h3> 
 <ul>
-<li> <b style="font-size: 28px">🔭</b>  I'm currently working as <b style="font-size: 18px;color: #7fff00;">a Flutter developer.</b></li>
+<li> <b style="font-size: 28px">🔭</b>  I'm currently developing <b style="font-size: 18px;color: #7fff00;">my personal portfolio website using Flutter.</b></li>
 <li> <b style="font-size: 28px">📖</b>  I am also a novice AI Engineer & avid reader. </li>
 <li> <b style="font-size: 28px">💭</b>  I love solving programming challenges, coding and building various software projects with Dart & Flutter. </li>
 <li> <b style="font-size: 28px">🕸 </b>  Slightly obsessed with Web technologies.</li> 
