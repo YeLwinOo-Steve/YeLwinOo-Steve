@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="./ye_lwin_oo.png" width="100%" style="object-fit: contain;height: auto;">
-  <img src="./wave.svg" width="100%" style="object-fit: contain;height: auto;"><br>
-</p>
-<br>
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=light)](https://www.linkedin.com/in/ye-lwin-oo-ucsm/) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/Facebook-Account-informational?style=for-the-badge&logo=facebook&logoColor=white&color=light)](https://www.facebook.com/ye.lwin.oo.someone) &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/YeLwinOo-Steve?logo=GitHub&style=for-the-badge&color=7fff00)](https://github.com/YeLwinOo-Steve) &nbsp;
