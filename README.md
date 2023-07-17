@@ -23,7 +23,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=Pulse&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/YeLwinOo-Steve/Pulse)&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=Notee&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/YeLwinOo-Steve/Notee)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=FlappyIronman&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/YeLwinOo-Steve/FlappyIronman)&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=TheGoldenLand&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/YeLwinOo-Steve/TheGoldenLand)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=ye-lwin-oo&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/YeLwinOo-Steve/ye-lwin-oo)&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=pretty_animated_buttons&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/YeLwinOo-Steve/pretty_animated_buttons)
 
 &nbsp;
 
