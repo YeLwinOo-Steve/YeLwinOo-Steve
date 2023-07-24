@@ -5,9 +5,9 @@
 
 ![](https://komarev.com/ghpvc/?username=YeLwinOo-Steve&color=7fff00)
 
-# <b style="font-size: 50px">👋</b> &nbsp;<b>Hi There!</b>
+# <b style="font-size: 50px">👋</b> &nbsp;<b>Hi There! I'm Ye Lwin Oo (Steve)</b>
 
-<h3>I'm <b style="color: #7fff00">a passionate Software developer ( also a CDM Student ) </b> from Myanmar.</h3> 
+<h3>I'm <b style="color: #7fff00">a passionate Software Developer  experienced in crafting full-fledged cross-platform software with around four years of coding experience</b>.</h3> 
 <ul>
 <li> <b style="font-size: 28px">🔭</b>  I'm currently <b style="font-size: 18px;color: #7fff00;">contributing open source projects using Flutter.</b></li>
 <li> <b style="font-size: 28px">📖</b>  I am also a novice AI Engineer & avid reader. </li>
