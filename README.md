@@ -10,6 +10,12 @@
 <h3>I'm <b style="color: #7fff00">a passionate Software Developer proficient in crafting full-fledged cross-platform software with over 4+ years of coding experience</b>.</h3> 
 <ul>
 <li> <b style="font-size: 28px">🔭</b>  I'm currently <b style="font-size: 18px;color: #7fff00;">contributing open source projects using Flutter.</b></li>
+<li> <b style="font-size: 28px">📢</b>  I speak about Flutter at:<br>
+  <ul>
+  <li>Google DevFest</li>
+  <li>Flutter Events</li>
+  </ul>
+</li>
 <li> <b style="font-size: 28px">📖</b>  I am also a novice AI Engineer & avid reader. </li>
 <li> <b style="font-size: 28px">💭</b>  I love solving programming challenges, coding and building various software projects with Dart & Flutter. </li>
 <li> <b style="font-size: 28px">🕸</b>  Fairly obsessed with Web technologies ( <a href="https://witaward.com/result/2020">National Web Design Award Winner</a> ).</li> 
