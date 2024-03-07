@@ -16,9 +16,9 @@
   <li>Flutter Events</li>
   </ul>
 </li>
+<li> <b style="font-size: 28px">🕸</b>  Fairly obsessed with Web technologies ( <a href="https://witaward.com/result/2020">National Web Design Award Winner</a> ).</li> 
 <li> <b style="font-size: 28px">📖</b>  I am also a novice AI Engineer & avid reader. </li>
 <li> <b style="font-size: 28px">💭</b>  I love solving programming challenges, coding and building various software projects with Dart & Flutter. </li>
-<li> <b style="font-size: 28px">🕸</b>  Fairly obsessed with Web technologies ( <a href="https://witaward.com/result/2020">National Web Design Award Winner</a> ).</li> 
 <li> <b style="font-size: 28px">📮</b>  I often work on <b style="text-decoration: underline;color: #7fff00">freelance projects</b>. Contact me via <a href="mailto: yelwinoo.work@gmail.com">yelwinoo.work@gmail.com</a> .</li>
 
 &nbsp;
