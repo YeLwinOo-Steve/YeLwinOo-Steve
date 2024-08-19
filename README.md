@@ -16,8 +16,9 @@
   <li>Flutter Events</li>
   </ul>
 </li> -->
-<li> <b style="font-size: 28px">🕸</b>  Fairly obsessed with Web technologies ( <a href="https://witaward.com/result/2020">WIT Web Design Award Winner 2020</a> ).</li> 
+<br>
 <li> <b style="font-size: 28px">💭</b>  I love solving programming challenges, coding and building various software projects with Dart & Flutter. </li>
+<li> <b style="font-size: 28px">🕸</b>  Fairly obsessed with Web technologies ( <a href="https://witaward.com/result/2020">WIT Web Design Award Winner 2020</a> ).</li> 
 <li> <b style="font-size: 28px">📮</b> Contact me via <a href="mailto: yelwinoo.work@gmail.com">yelwinoo.work@gmail.com</a> .</li>
 
 &nbsp;
