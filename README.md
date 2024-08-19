@@ -1,9 +1,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ye-lwin-oo-ucsm/)](https://www.linkedin.com/in/ye-lwin-oo-ucsm/) &nbsp;
-[![Facebook](https://img.shields.io/badge/-Facebook-c14438?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/ye.lwin.oo.someone)](https://www.facebook.com/ye.lwin.oo.someone) &nbsp;
+[![Facebook](https://img.shields.io/badge/-Facebook-teal?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/ye.lwin.oo.someone)](https://www.facebook.com/ye.lwin.oo.someone) &nbsp;
 [![Followers](https://img.shields.io/github/followers/YeLwinOo-Steve?style=for-the-badge&logo=Github&label=Followers&labelColor=1A3549&&color=008080)](https://github.com/YeLwinOo-Steve) &nbsp;
 [![Stars](https://img.shields.io/github/stars/YeLwinOo-Steve?style=for-the-badge&logo=Github&label=stars&labelColor=1A3549&color=008080)](https://github.com/YeLwinOo-Steve) &nbsp;<br>
 
-![](https://komarev.com/ghpvc/?username=YeLwinOo-Steve&color=7fff00)
+![](https://komarev.com/ghpvc/?username=YeLwinOo-Steve&style=for-the-badge&color=1A3549)
 
 # 🖐🏽 &nbsp;<b>Hi There! I'm Ye Lwin Oo (Steve)</b>
 
