@@ -1,25 +1,24 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=light)](https://www.linkedin.com/in/ye-lwin-oo-ucsm/) &nbsp;
-[![LinkedIn](https://img.shields.io/badge/Facebook-Account-informational?style=for-the-badge&logo=facebook&logoColor=white&color=light)](https://www.facebook.com/ye.lwin.oo.someone) &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/YeLwinOo-Steve?logo=GitHub&style=for-the-badge&color=7fff00)](https://github.com/YeLwinOo-Steve) &nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/YeLwinOo-Steve?logo=github&style=for-the-badge&color=7fff00)](https://github.com/YeLwinOo-Steve) &nbsp;<br>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ye-lwin-oo-ucsm/)](https://www.linkedin.com/in/ye-lwin-oo-ucsm/) &nbsp;
+[![Facebook](https://img.shields.io/badge/-Facebook-c14438?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/ye.lwin.oo.someone)](https://www.facebook.com/ye.lwin.oo.someone) &nbsp;
+[![Followers](https://img.shields.io/github/followers/YeLwinOo-Steve?style=for-the-badge&logo=Github&label=Followers&labelColor=008080&&color=1A3549)](https://github.com/YeLwinOo-Steve) &nbsp;
+[![Stars](https://img.shields.io/github/stars/YeLwinOo-Steve?style=for-the-badge&logo=Github&label=stars&labelColor=008080&color=1A3549)](https://github.com/YeLwinOo-Steve) &nbsp;<br>
 
 ![](https://komarev.com/ghpvc/?username=YeLwinOo-Steve&color=7fff00)
 
 # 🖐🏽 &nbsp;<b>Hi There! I'm Ye Lwin Oo (Steve)</b>
 
-<h3>I'm <b style="color: #7fff00">a passionate Software Developer proficient in crafting full-fledged cross-platform software with over 4+ years of coding experience</b>.</h3> 
+<h3>I'm a passionate Software Developer proficient in crafting full-fledged cross-platform software with over 4+ years of coding experience.</h3> 
 <ul>
-<li> <b style="font-size: 28px">🔭</b>  I'm currently <b style="font-size: 18px;color: #7fff00;">contributing open source projects using Flutter.</b></li>
-<li> <b style="font-size: 28px">📢</b>  I speak about Flutter at:<br>
+<li> <b style="font-size: 28px">🔭</b>  I'm currently contributing open source projects using Flutter.</li>
+<!-- <li> <b style="font-size: 28px">📢</b>  I speak about Flutter at:<br>
   <ul>
   <li>Google DevFest</li>
   <li>Flutter Events</li>
   </ul>
-</li>
-<li> <b style="font-size: 28px">🕸</b>  Fairly obsessed with Web technologies ( <a href="https://witaward.com/result/2020">National Web Design Award Winner</a> ).</li> 
-<li> <b style="font-size: 28px">📖</b>  I am also a novice AI Engineer & avid reader. </li>
+</li> -->
+<li> <b style="font-size: 28px">🕸</b>  Fairly obsessed with Web technologies ( <a href="https://witaward.com/result/2020">WIT Web Design Award Winner 2020</a> ).</li> 
 <li> <b style="font-size: 28px">💭</b>  I love solving programming challenges, coding and building various software projects with Dart & Flutter. </li>
-<li> <b style="font-size: 28px">📮</b>  I often work on <b style="text-decoration: underline;color: #7fff00">freelance projects</b>. Contact me via <a href="mailto: yelwinoo.work@gmail.com">yelwinoo.work@gmail.com</a> .</li>
+<li> <b style="font-size: 28px">📮</b> Contact me via <a href="mailto: yelwinoo.work@gmail.com">yelwinoo.work@gmail.com</a> .</li>
 
 &nbsp;
 
