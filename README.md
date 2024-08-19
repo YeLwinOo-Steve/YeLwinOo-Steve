@@ -27,8 +27,8 @@
 
 <br>
 
-[![Pulse X](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=Pulse&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/YeLwinOo-Steve/Pulse)&nbsp;
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=ye-lwin-oo&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/YeLwinOo-Steve/ye-lwin-oo)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=ye-lwin-oo&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/YeLwinOo-Steve/ye-lwin-oo)&nbsp;
+[![Pulse X](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=Pulse&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/YeLwinOo-Steve/Pulse)
 <br>
 [![Pretty Animated Buttons](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=pretty_animated_buttons&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/YeLwinOo-Steve/pretty_animated_buttons)&nbsp;
 [![Notee](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=Notee&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/YeLwinOo-Steve/Notee)
