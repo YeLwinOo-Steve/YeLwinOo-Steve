@@ -9,7 +9,7 @@
 
 <h3>I'm a passionate Software Developer proficient in crafting full-fledged cross-platform software with over 4+ years of coding experience.</h3> 
 <ul>
-<li> <img src="assets/icons/Telescope.webp" width="36px">  I'm currently contributing open source projects using Flutter.</li>
+<li> <img src="assets/icons/Telescope.webp" width="36px">  I'm currently contributing <a href="https://en.wikipedia.org/wiki/Open_source">open source projects</a> using Flutter.</li>
 <!-- <li> <b style="font-size: 28px">📢</b>  I speak about Flutter at:<br>
   <ul>
   <li>Google DevFest</li>
@@ -18,8 +18,8 @@
 </li> -->
 <li> <img src="assets/icons/Comet.png" width="36px">  I love solving programming challenges, coding and building various software projects with Dart & Flutter. 
 </li>
-<li>  <img src="assets/icons/Spider Web.webp" width="32px">  Fairly obsessed with Web technologies ( <a href="https://witaward.com/result/2020">WIT Web Design Award Winner 2020</a> ).</li> 
-<li> <img src="assets/icons/Lady Beetle.png" width="32px"> Occasionally produce more bugs than features.</li>
+<li><img src="assets/icons/Spider Web.webp" width="32px">&nbsp; Fairly obsessed with Web technologies ( <a href="https://witaward.com/result/2020">WIT Web Design Award Winner 2020</a> ).</li> 
+<li><img src="assets/icons/Lady Beetle.png" width="32px">&nbsp; Occasionally produce more bugs than features.</li>
 <li> <img src="assets/icons/Inbox Tray.webp" width="36px"> Contact me via <a href="mailto: yelwinoo.work@gmail.com">yelwinoo.work@gmail.com</a> .</li>
 
 &nbsp;
