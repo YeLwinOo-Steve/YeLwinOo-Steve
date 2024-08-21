@@ -36,7 +36,16 @@
 [![Notee](https://github-readme-stats.vercel.app/api/pin/?username=YeLwinOo-Steve&repo=Notee&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/YeLwinOo-Steve/Notee)
 
 &nbsp;
+## <img src="assets/icons/Heart with Arrow.png" width="36px">&nbsp;Love my works? 
 
+<img src="assets/icons/Star.png" width="25"/>&nbsp;[Give me stars](https://github.com/YeLwinOo-Steve/ye-lwin-oo) <br/>
+<img src="assets/icons/Folded Hands Medium Skin Tone.png" width="25"/>&nbsp;[Follow me on GitHub](https://github.com/YeLwinOo-Steve)<br/>
+<img src="assets/icons/Fire.png" width="25"/>&nbsp;[Check my portfolio](https://yl0.me)<br/>
+<img src="assets/icons/Writing Hand.webp" width="25"/>&nbsp;[Read my blogs (WIP)](https://blog.yl0.me/)<br/>
+<img src="assets/icons/Hot Beverage.png" width="25"> [Buy me a coffee](https://buymeacoffee.com/yloo2) (Tired of drinking Tea)
+
+
+>> Thanks for visiting my Github. <img src="assets/icons/Partying Face.png" width="24px">
 ## <img src="assets/icons/Hourglass Done.webp" width="36px"> &nbsp;Github Stats
 
 <br>
