@@ -5,25 +5,26 @@
 
 ![](https://komarev.com/ghpvc/?username=YeLwinOo-Steve&style=for-the-badge&color=1A3549)
 
-# 🖐🏽 &nbsp;<b>Hi There! I'm Ye Lwin Oo (Steve)</b>
+# <img src="assets/icons/Waving Hand Medium Skin Tone.png" width="50px"> &nbsp;<b>Hi There! I'm Ye Lwin Oo (Steve)</b>
 
-<h3>I'm a passionate Software Developer proficient in crafting full-fledged cross-platform software with over 4+ years of coding experience.</h3> 
+<h4>I'm a passionate Software Developer proficient in crafting full-fledged cross-platform software with over 4+ years of coding experience.</h4> 
 <ul>
-<li> <b style="font-size: 28px">🔭</b>  I'm currently contributing open source projects using Flutter.</li>
+<li> <img src="assets/icons/Telescope.webp" width="36px">  I'm currently contributing open source projects using Flutter.</li>
 <!-- <li> <b style="font-size: 28px">📢</b>  I speak about Flutter at:<br>
   <ul>
   <li>Google DevFest</li>
   <li>Flutter Events</li>
   </ul>
 </li> -->
-<br>
-<li> <b style="font-size: 28px">💭</b>  I love solving programming challenges, coding and building various software projects with Dart & Flutter. </li>
-<li> <b style="font-size: 28px">🕸</b>  Fairly obsessed with Web technologies ( <a href="https://witaward.com/result/2020">WIT Web Design Award Winner 2020</a> ).</li> 
-<li> <b style="font-size: 28px">📮</b> Contact me via <a href="mailto: yelwinoo.work@gmail.com">yelwinoo.work@gmail.com</a> .</li>
+<li> <img src="assets/icons/Comet.png" width="36px">  I love solving programming challenges, coding and building various software projects with Dart & Flutter. 
+</li>
+<li>  <img src="assets/icons/Spider Web.webp" width="32px">  Fairly obsessed with Web technologies ( <a href="https://witaward.com/result/2020">WIT Web Design Award Winner 2020</a> ).</li> 
+<li> <img src="assets/icons/Lady Beetle.png" width="32px"> Occasionally produce more bugs than features.</li>
+<li> <img src="assets/icons/Inbox Tray.webp" width="36px"> Contact me via <a href="mailto: yelwinoo.work@gmail.com">yelwinoo.work@gmail.com</a> .</li>
 
 &nbsp;
 
-## 📃 &nbsp;My Showcase Projects
+## <img src="assets/icons/Rocket.png" width="36px"> &nbsp;My Showcase Projects 
 
 <br>
 
@@ -36,7 +37,7 @@
 
 &nbsp;
 
-## 📊 &nbsp;Stats
+## <img src="assets/icons/Hourglass Done.webp" width="36px"> &nbsp;Github Stats
 
 <br>
 
