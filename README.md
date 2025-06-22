@@ -1,8 +1,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ye-lwin-oo-ucsm/)](https://www.linkedin.com/in/ye-lwin-oo-ucsm/) &nbsp;
-[![Followers](https://img.shields.io/github/followers/YeLwinOo-Steve?style=for-the-badge&logo=Github&label=Followers&labelColor=809F7F&&color=809F7F)](https://github.com/YeLwinOo-Steve) &nbsp;
-[![Stars](https://img.shields.io/github/stars/YeLwinOo-Steve?style=for-the-badge&logo=Github&label=stars&labelColor=809F7F&color=809F7F)](https://github.com/YeLwinOo-Steve) &nbsp;<br/>
+[![Followers](https://img.shields.io/github/followers/YeLwinOo-Steve?style=for-the-badge&logo=Github&label=Followers&labelColor=008080&&color=008080)](https://github.com/YeLwinOo-Steve) &nbsp;
+[![Stars](https://img.shields.io/github/stars/YeLwinOo-Steve?style=for-the-badge&logo=Github&label=stars&labelColor=008080&color=008080)](https://github.com/YeLwinOo-Steve) &nbsp;<br/>
 
-![](https://komarev.com/ghpvc/?username=YeLwinOo-Steve&style=for-the-badge&color=809F7F)<br/>
+![](https://komarev.com/ghpvc/?username=YeLwinOo-Steve&style=flat&color=008080)<br/>
 
 ## <img src="assets/icons/Waving Hand Medium Skin Tone.png" width="32px"> &nbsp;<b>Hi There! I'm Ye Lwin Oo (Steve)</b>
 
