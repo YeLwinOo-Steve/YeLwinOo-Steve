@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=YeLwinOo-Steve&style=flat&color=008080)
 ## <img src="assets/icons/Waving Hand Medium Skin Tone.png" width="32px"> &nbsp;<b>Hi There! I'm Ye Lwin Oo (Steve)</b>
-<h4>Mobile developer with 5+ years of experience building cross-platform apps — focusing on sleek UI, real-time features, and immersive user experiences. Lately exploring performance tuning, animation, and AI-assisted user experiences.</h4>
+<h4>Mobile developer with 5+ years of experience building cross-platform apps — focusing on sleek UI, real-time features, and immersive user experiences. Lately diving into performance tuning, animation, and AI-driven app flows.</h4>
 <ul>
 <li> <img src="assets/icons/Telescope.webp" width="24px">  I'm currently contributing <a href="https://en.wikipedia.org/wiki/Open_source">open source projects</a> using Flutter.</li>
 <li> <img src="assets/icons/Comet.png" width="24px">  I love solving programming challenges, coding and building various software projects.
