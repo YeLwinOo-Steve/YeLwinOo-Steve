@@ -1,8 +1,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ye-lwin-oo-ucsm/)](https://www.linkedin.com/in/ye-lwin-oo-ucsm/) &nbsp;
-[![Followers](https://img.shields.io/github/followers/YeLwinOo-Steve?style=for-the-badge&logo=Github&label=Followers&labelColor=008080&&color=008080)](https://github.com/YeLwinOo-Steve) &nbsp;
-[![Stars](https://img.shields.io/github/stars/YeLwinOo-Steve?style=for-the-badge&logo=Github&label=stars&labelColor=008080&color=008080)](https://github.com/YeLwinOo-Steve) &nbsp;
+[![Followers](https://img.shields.io/github/followers/YeLwinOo-Steve?style=for-the-badge&logo=Github&label=Followers&labelColor=FFB001&&color=FFB001)](https://github.com/YeLwinOo-Steve) &nbsp;
+[![Stars](https://img.shields.io/github/stars/YeLwinOo-Steve?style=for-the-badge&logo=Github&label=stars&labelColor=FFB001&color=FFB001)](https://github.com/YeLwinOo-Steve) &nbsp;
 
-![](https://komarev.com/ghpvc/?username=YeLwinOo-Steve&style=flat&color=008080)
+![](https://komarev.com/ghpvc/?username=YeLwinOo-Steve&style=flat&color=FFB001)
 ## <img src="assets/icons/Waving Hand Medium Skin Tone.png" width="32px"> &nbsp;<b>Hi There! I'm Ye Lwin Oo (Steve)</b>
 <h4>Mobile developer with 5+ years of experience building cross-platform apps — focusing on sleek UI, real-time features, and immersive user experiences. Lately diving into performance tuning, animation, and AI-driven app flows.</h4>
 <ul>
