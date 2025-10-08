@@ -16,7 +16,7 @@
 ## <img src="assets/icons/Heart with Arrow.png" width="24px">&nbsp;Love my works?
 
 <img src="assets/icons/Fire.png" width="22px"/>&nbsp;[Check out my portfolio](https://yl0.me)<br/>
-<img src="assets/icons/Writing Hand.webp" width="22px"/>&nbsp;[Read my blogs](https://blog.yl0.me/)<br/>
+<img src="assets/icons/Writing Hand.webp" width="22px"/>&nbsp;[Read my blogs](https://im.yl0.me/blog)<br/>
 <img src="assets/icons/Hot Beverage.png" width="22px"> [Buy me a coffee](https://buymeacoffee.com/yloo2) ( My productivity runs on Cappuccino )
 
 ## <img src="assets/icons/Hourglass Done.webp" width="24px"> &nbsp;Github Stats
