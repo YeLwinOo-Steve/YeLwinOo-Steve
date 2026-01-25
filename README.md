@@ -3,7 +3,7 @@
 [![Stars](https://img.shields.io/github/stars/YeLwinOo-Steve?style=for-the-badge&logo=Github&label=stars&labelColor=FFB001&color=FFB001)](https://github.com/YeLwinOo-Steve) &nbsp;
 
 ![](https://komarev.com/ghpvc/?username=YeLwinOo-Steve&style=flat&color=FFB001)
-## <img src="assets/icons/Waving Hand Medium Skin Tone.png" width="32px"> &nbsp;<b>Hi There! I'm Ye Lwin Oo (/jiː/)</b>
+## <img src="assets/icons/Waving Hand Medium Skin Tone.png" width="32px"> &nbsp;<b>Hi There! I'm Ye Lwin Oo ([/jiː/](https://ipa-reader.com/))</b>
 <h4>Mobile developer with 6+ years of experience building cross-platform apps — focusing on sleek UI, real-time features, and immersive user experiences. Lately diving into performance tuning, animation, and AI-driven app flows.</h4>
 <ul>
 <li> <img src="assets/icons/Telescope.webp" width="24px">  I'm currently contributing <a href="https://en.wikipedia.org/wiki/Open_source">open source projects</a> using Flutter.</li>
